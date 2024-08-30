@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ABC_Retailers.Models.Product>
+
+@{
+    ViewData["Title"] = "SHOP NOW";
+}
+
+<h2 class="bakfont">SHOP NOW</h2>
+
+<!-- Create Product Button -->
+<div class="mb-3">
+    <a href="@Url.Action("Create", "Product")" class="btn btn-primary bg-dark-green bakfont">Add Product</a>
+</div>
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-3">
+           
+            <div class="card mb-4 product-card">
+                <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name" />
+                <div class="card-body">
+                    <h5 class="card-title bakfont">@product.Name</h5>
+                    <p class="card-text">@product.Description</p>
+                    <p class="card-text"><strong>Price: </strong>@product.Price.ToString("C")</p>
+                    <div class="d-flex justify-content-between">
+                        <!-- Buy Now Button -->
+                        <form asp-action="AddToCart" asp-route-id="@product.ProductId" method="post">
+                            <button type="submit" class="btn btn-primary bg-dark-green bakfont">Buy Now</button>
+                        </form>
+                        <!-- Delete Button -->
+                        <form asp-action="Delete" asp-route-id="@product.ProductId" method="post">
+                            <button type="submit" class="btn btn-danger bakfont">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

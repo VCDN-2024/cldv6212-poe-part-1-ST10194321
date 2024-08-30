@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\views\\aboutus\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\aboutus\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\controllers\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\controllers\\customerstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\customerstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\jose\\source\\repos\\abc retailers\\abc retailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E93F543-EB2D-4763-AA31-C522470F3599}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T12:10:47.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T17:43:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Register\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Register\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T17:42:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Product\\Cart.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Product\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Product\\Cart.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Product\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T19:16:52.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T19:38:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T19:42:06.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:05:42.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ABC Retailers\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ABC Retailers\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACIBAAAAAAAAAAAAAC4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T10:11:09.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\AboutUs\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\AboutUs\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Views\\AboutUs\\AboutUs.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\AboutUs\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T09:25:45.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:26:03.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:44:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:34:09.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\Product.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:31:17.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Models\\Customers.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:22:06.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:10:44.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\ProductService.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\ProductService.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\ProductService.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAA8wJ8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:37:59.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:34:35.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:10:23.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:00:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\CustomerStorageService.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\CustomerStorageService.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\CustomerStorageService.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\CustomerStorageService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwCoAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:16:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:33:42.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Program.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\Program.cs",
+              "RelativeToolTip": "ABC Retailers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:40:30.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\appsettings.json",
+              "RelativeDocumentMoniker": "ABC Retailers\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ABC Retailers\\ABC Retailers\\appsettings.json",
+              "RelativeToolTip": "ABC Retailers\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T17:39:46.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

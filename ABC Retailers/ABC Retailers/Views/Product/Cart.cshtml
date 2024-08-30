@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ABC_Retailers.Models.Product>
+
+@{
+    ViewData["Title"] = "Your Cart";
+}
+<!-- Header for the cart page, using a custom font class -->
+<h2 class="bakfont">Your Cart</h2>
+
+<!-- Check if the cart is empty -->
+@if (!Model.Any())
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <!-- If the cart has products, display them in a grid -->
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-3">
+                
+                <div class="card mb-4 product-card">
+                    <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name" />
+                    <div class="card-body">
+                        <h5 class="card-title bakfont">@product.Name</h5>
+                        <p class="card-text">@product.Description</p>
+                        <p class="card-text"><strong>Price: </strong>@product.Price.ToString("C")</p>
+                        <div class="d-flex justify-content-between">
+                           
+                            <form asp-action="RemoveFromCart" asp-route-id="@product.ProductId" method="post">
+                                <button type="submit" class="btn btn-danger bg-dark-green bakfont">Remove</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <!-- Form to clear all products from the cart -->
+    <form asp-action="ClearCart" method="post">
+        <button type="submit" class="btn btn-danger bg-dark-green bakfont">Clear Cart</button>
+    </form>
+}

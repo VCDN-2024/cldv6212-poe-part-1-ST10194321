@@ -1,0 +1,58 @@
+[
+  {
+    "ProductId": "b24f782d-f0ac-4cb9-8a9e-d6bcca538c92",
+    "Name": "Chelsea Kit 2008/09",
+    "Price": 750,
+    "Description": "The best kit",
+    "ImageUrl": "https://st10194321cloud.blob.core.windows.net/product-images/f316209e-bf05-42b8-bf86-8776438ea1e6.jpg"
+  },
+  {
+    "ProductId": "b3fc3c2b-f5d9-409e-a6e1-01442b551032",
+    "Name": "Chelsea Kit 2022/23",
+    "Price": 850,
+    "Description": "Neutral Chelsea Away Kit  ",
+    "ImageUrl": "https://st10194321cloud.blob.core.windows.net/product-images/1d086580-1ea4-42fb-a9b7-21a8f807d68f.jpg"
+  },
+  {
+    "ProductId": "f2281fe5-4bf7-40a1-b6c3-92380a2f3ef3",
+    "Name": "Manchester City 1999/00 Kit",
+    "Price": 1250,
+    "Description": "Retro Sky Blues Kit",
+    "ImageUrl": "https://st10194321cloud.blob.core.windows.net/product-images/dce1392f-f060-4800-a5ce-0a66d70cd50c.webp"
+  },
+  {
+    "ProductId": "3fe18408-3172-4082-ae17-c64284271027",
+    "Name": "Arsenal Kit 05/06 ",
+    "Price": 1100,
+    "Description": "Classic and Iconic Kit",
+    "ImageUrl": "https://st10194321cloud.blob.core.windows.net/product-images/e38abc7c-cd49-4664-a2d5-a66ee6cc52ea.webp"
+  },
+  {
+    "ProductId": "610c2bd9-c414-49bf-9a79-227fce31142f",
+    "Name": "Chelsea Kit 2011/12",
+    "Price": 1500,
+    "Description": "Champions League Winning Kit",
+    "ImageUrl": "https://st10194321cloud.blob.core.windows.net/product-images/d4731dd2-345a-4fe8-a94b-e76f605eebcd.jpg"
+  },
+  {
+    "ProductId": "e598afb1-3019-40b7-a6a4-047b982a6aae",
+    "Name": "Barcelona Kit 2008/09",
+    "Price": 1200,
+    "Description": "Iconic Treble Winning Kit",
+    "ImageUrl": "https://st10194321cloud.blob.core.windows.net/product-images/b27b712d-9ac1-4656-ac73-5f9b7caa038d.webp"
+  },
+  {
+    "ProductId": "30ac9ffe-a809-444e-891b-b1a611cc9b26",
+    "Name": "Barcelona Kit 2014/15",
+    "Price": 1300,
+    "Description": "This Kit Reminds You of MSN",
+    "ImageUrl": "https://st10194321cloud.blob.core.windows.net/product-images/2b102498-aeca-4bd4-8481-798df1cf28dc.webp"
+  },
+  {
+    "ProductId": "68d88188-5492-4178-ac21-8b9158bc4cca",
+    "Name": "Real Madrid Kit 14/15",
+    "Price": 1400,
+    "Description": "Artistic Real Madrid Third Shirt",
+    "ImageUrl": "https://st10194321cloud.blob.core.windows.net/product-images/849b08e0-4444-46a1-83c0-870bdea6c475.webp"
+  }
+]
